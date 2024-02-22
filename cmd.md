@@ -37,5 +37,9 @@ git status
 ```
 git clone
 ```
+Выгрузить файлы в удалённый репозиторий 
+```
+git push -u <branch>
+```
 
 
